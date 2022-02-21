@@ -1,0 +1,860 @@
+2022-01-15 22:09:52,027 : INFO: test_end2end:gettingUsername
+2022-01-15 22:09:55,292 : INFO: test_end2end:getting Emailid
+2022-01-15 22:09:58,432 : INFO: test_end2end:gettingPassword
+2022-01-15 22:33:59,846 : INFO: Tests.BaseClass:gettingUsername
+2022-01-15 22:35:58,641 : INFO: Tests.BaseClass:gettingUsername
+2022-01-15 22:36:01,819 : INFO: Tests.BaseClass:getting Emailid
+2022-01-15 22:36:05,021 : INFO: Tests.BaseClass:gettingPassword
+2022-01-15 22:39:56,442 : INFO: Tests.BaseClass:gettingUsername
+2022-01-15 22:39:59,589 : INFO: Tests.BaseClass:getting Emailid
+2022-01-15 22:40:02,752 : INFO: Tests.BaseClass:gettingPassword
+2022-01-15 22:43:59,610 : INFO: Tests.BaseClass:gettingUsername
+2022-01-15 22:44:02,906 : INFO: Tests.BaseClass:getting Emailid
+2022-01-15 22:44:06,090 : INFO: Tests.BaseClass:gettingPassword
+2022-01-15 22:45:27,750 : INFO: Tests.BaseClass:gettingUsername
+2022-01-15 22:45:30,906 : INFO: Tests.BaseClass:getting Emailid
+2022-01-15 22:45:34,093 : INFO: Tests.BaseClass:gettingPassword
+2022-01-15 22:45:59,999 : INFO: Tests.BaseClass:iphone X
+2022-01-15 22:46:00,039 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-15 22:46:00,054 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-15 22:46:00,078 : INFO: Tests.BaseClass:Blackberry
+2022-01-15 22:46:00,300 : INFO: Tests.BaseClass:getting Country
+2022-01-15 22:47:01,319 : INFO: Tests.BaseClass:gettingUsername
+2022-01-15 22:47:04,508 : INFO: Tests.BaseClass:getting Emailid
+2022-01-15 22:47:07,694 : INFO: Tests.BaseClass:gettingPassword
+2022-01-15 22:48:01,483 : INFO: Tests.BaseClass:gettingUsername
+2022-01-15 22:48:04,633 : INFO: Tests.BaseClass:getting Emailid
+2022-01-15 22:48:07,845 : INFO: Tests.BaseClass:gettingPassword
+2022-01-15 22:48:23,778 : INFO: Tests.BaseClass:iphone X
+2022-01-15 22:48:23,797 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-15 22:48:23,816 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-15 22:48:23,835 : INFO: Tests.BaseClass:Blackberry
+2022-01-15 22:48:24,101 : INFO: Tests.BaseClass:getting Country
+2022-01-15 22:50:30,175 : INFO: Tests.BaseClass:gettingUsername
+2022-01-15 22:50:33,363 : INFO: Tests.BaseClass:getting Emailid
+2022-01-15 22:50:36,536 : INFO: Tests.BaseClass:gettingPassword
+2022-01-15 22:50:48,993 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-15 22:50:50,354 : INFO: Tests.BaseClass:iphone X
+2022-01-15 22:50:50,367 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-15 22:50:50,386 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-15 22:50:50,400 : INFO: Tests.BaseClass:Blackberry
+2022-01-15 22:50:50,651 : INFO: Tests.BaseClass:getting Country
+2022-01-15 22:50:56,101 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-15 23:00:59,762 : INFO: Tests.BaseClass:gettingUsername
+2022-01-15 23:01:02,987 : INFO: Tests.BaseClass:getting Emailid
+2022-01-15 23:01:06,185 : INFO: Tests.BaseClass:gettingPassword
+2022-01-15 23:01:18,760 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-15 23:01:23,277 : INFO: Tests.BaseClass:iphone X
+2022-01-15 23:01:23,299 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-15 23:01:23,319 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-15 23:01:23,344 : INFO: Tests.BaseClass:Blackberry
+2022-01-15 23:01:23,676 : INFO: Tests.BaseClass:getting Country
+2022-01-15 23:01:29,294 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-15 23:08:12,325 : INFO: Tests.BaseClass:gettingUsername
+2022-01-15 23:08:15,693 : INFO: Tests.BaseClass:getting Emailid
+2022-01-15 23:08:18,911 : INFO: Tests.BaseClass:gettingPassword
+2022-01-15 23:08:31,336 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-15 23:08:48,541 : INFO: Tests.BaseClass:iphone X
+2022-01-15 23:08:48,569 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-15 23:08:48,590 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-15 23:08:48,614 : INFO: Tests.BaseClass:Blackberry
+2022-01-15 23:08:48,881 : INFO: Tests.BaseClass:getting Country
+2022-01-15 23:08:54,720 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-15 23:11:08,112 : INFO: Tests.BaseClass:gettingUsername
+2022-01-15 23:11:11,270 : INFO: Tests.BaseClass:getting Emailid
+2022-01-15 23:11:14,405 : INFO: Tests.BaseClass:gettingPassword
+2022-01-15 23:11:26,937 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-15 23:11:33,473 : INFO: Tests.BaseClass:iphone X
+2022-01-15 23:11:33,494 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-15 23:11:33,522 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-15 23:11:33,538 : INFO: Tests.BaseClass:Blackberry
+2022-01-15 23:11:33,822 : INFO: Tests.BaseClass:getting Country
+2022-01-15 23:11:39,315 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-15 23:27:07,128 : INFO: Tests.BaseClass:gettingUsername
+2022-01-15 23:27:10,408 : INFO: Tests.BaseClass:getting Emailid
+2022-01-15 23:27:13,581 : INFO: Tests.BaseClass:gettingPassword
+2022-01-15 23:27:26,103 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-15 23:27:31,158 : INFO: Tests.BaseClass:iphone X
+2022-01-15 23:27:31,183 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-15 23:27:31,204 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-15 23:27:31,225 : INFO: Tests.BaseClass:Blackberry
+2022-01-15 23:27:31,466 : INFO: Tests.BaseClass:getting Country
+2022-01-15 23:27:37,366 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-15 23:29:03,210 : INFO: Tests.BaseClass:gettingUsername
+2022-01-15 23:29:06,410 : INFO: Tests.BaseClass:getting Emailid
+2022-01-15 23:29:09,556 : INFO: Tests.BaseClass:gettingPassword
+2022-01-15 23:29:22,002 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-15 23:29:23,032 : INFO: Tests.BaseClass:iphone X
+2022-01-15 23:29:23,060 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-15 23:29:23,097 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-15 23:29:23,121 : INFO: Tests.BaseClass:Blackberry
+2022-01-15 23:29:23,390 : INFO: Tests.BaseClass:getting Country
+2022-01-15 23:29:28,823 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-16 14:32:30,806 : INFO: Tests.BaseClass:gettingUsername
+2022-01-16 14:32:34,038 : INFO: Tests.BaseClass:getting Emailid
+2022-01-16 14:32:37,208 : INFO: Tests.BaseClass:gettingPassword
+2022-01-16 14:32:50,197 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-16 14:32:53,937 : INFO: Tests.BaseClass:iphone X
+2022-01-16 14:32:53,953 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-16 14:32:53,967 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-16 14:32:53,986 : INFO: Tests.BaseClass:Blackberry
+2022-01-16 14:32:54,508 : INFO: Tests.BaseClass:getting Country
+2022-01-16 14:33:00,405 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-16 14:43:47,748 : INFO: Tests.BaseClass:gettingUsername
+2022-01-16 14:43:50,983 : INFO: Tests.BaseClass:getting Emailid
+2022-01-16 14:43:54,273 : INFO: Tests.BaseClass:gettingPassword
+2022-01-16 14:44:07,032 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-16 14:44:09,316 : INFO: Tests.BaseClass:iphone X
+2022-01-16 14:44:09,351 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-16 14:44:09,384 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-16 14:44:09,411 : INFO: Tests.BaseClass:Blackberry
+2022-01-16 14:44:09,801 : INFO: Tests.BaseClass:getting Country
+2022-01-16 14:44:16,563 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-16 15:25:13,040 : INFO: Tests.BaseClass:gettingUsername
+2022-01-16 15:25:16,202 : INFO: Tests.BaseClass:getting Emailid
+2022-01-16 15:25:19,364 : INFO: Tests.BaseClass:gettingPassword
+2022-01-16 15:25:32,033 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-16 15:25:33,471 : INFO: Tests.BaseClass:iphone X
+2022-01-16 15:25:33,489 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-16 15:25:33,505 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-16 15:25:33,518 : INFO: Tests.BaseClass:Blackberry
+2022-01-16 15:25:33,860 : INFO: Tests.BaseClass:getting Country
+2022-01-16 15:25:39,855 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-16 15:28:58,412 : INFO: Tests.BaseClass:gettingUsername
+2022-01-16 15:29:01,601 : INFO: Tests.BaseClass:getting Emailid
+2022-01-16 15:29:04,730 : INFO: Tests.BaseClass:gettingPassword
+2022-01-16 15:29:17,300 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-16 15:29:37,490 : INFO: Tests.BaseClass:iphone X
+2022-01-16 15:29:37,517 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-16 15:29:37,550 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-16 15:29:37,569 : INFO: Tests.BaseClass:Blackberry
+2022-01-16 15:29:38,004 : INFO: Tests.BaseClass:getting Country
+2022-01-16 15:29:43,868 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-16 15:33:31,873 : INFO: Tests.BaseClass:gettingUsername
+2022-01-16 15:33:35,103 : INFO: Tests.BaseClass:getting Emailid
+2022-01-16 15:33:38,277 : INFO: Tests.BaseClass:gettingPassword
+2022-01-16 15:33:51,099 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-16 15:33:55,315 : INFO: Tests.BaseClass:iphone X
+2022-01-16 15:33:55,338 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-16 15:33:55,366 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-16 15:33:55,384 : INFO: Tests.BaseClass:Blackberry
+2022-01-16 15:33:55,980 : INFO: Tests.BaseClass:getting Country
+2022-01-16 15:34:01,708 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-16 15:37:37,581 : INFO: Tests.BaseClass:gettingUsername
+2022-01-16 15:37:40,811 : INFO: Tests.BaseClass:getting Emailid
+2022-01-16 15:37:43,928 : INFO: Tests.BaseClass:gettingPassword
+2022-01-16 15:37:56,439 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-16 15:38:06,161 : INFO: Tests.BaseClass:iphone X
+2022-01-16 15:38:06,362 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-16 15:38:06,385 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-16 15:38:06,408 : INFO: Tests.BaseClass:Blackberry
+2022-01-16 15:38:06,740 : INFO: Tests.BaseClass:getting Country
+2022-01-16 15:38:12,578 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-16 15:39:12,833 : INFO: Tests.BaseClass:gettingUsername
+2022-01-16 15:39:16,100 : INFO: Tests.BaseClass:getting Emailid
+2022-01-16 15:39:19,252 : INFO: Tests.BaseClass:gettingPassword
+2022-01-16 15:39:32,301 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-16 15:40:05,158 : INFO: Tests.BaseClass:gettingUsername
+2022-01-16 15:40:08,439 : INFO: Tests.BaseClass:getting Emailid
+2022-01-16 15:40:11,703 : INFO: Tests.BaseClass:gettingPassword
+2022-01-16 15:40:20,172 : INFO: Tests.BaseClass:iphone X
+2022-01-16 15:40:20,216 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-16 15:40:20,250 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-16 15:40:20,309 : INFO: Tests.BaseClass:Blackberry
+2022-01-16 15:40:21,192 : INFO: Tests.BaseClass:getting Country
+2022-01-16 15:40:24,465 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-16 15:40:27,578 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-16 15:40:29,333 : INFO: Tests.BaseClass:iphone X
+2022-01-16 15:40:29,365 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-16 15:40:29,393 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-16 15:40:29,417 : INFO: Tests.BaseClass:Blackberry
+2022-01-16 15:40:30,358 : INFO: Tests.BaseClass:getting Country
+2022-01-16 15:40:36,342 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-16 15:41:24,942 : INFO: Tests.BaseClass:gettingUsername
+2022-01-16 15:41:28,110 : INFO: Tests.BaseClass:getting Emailid
+2022-01-16 15:41:31,220 : INFO: Tests.BaseClass:gettingPassword
+2022-01-16 15:41:43,755 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-16 15:41:47,803 : INFO: Tests.BaseClass:iphone X
+2022-01-16 15:41:47,830 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-16 15:41:47,872 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-16 15:41:47,892 : INFO: Tests.BaseClass:Blackberry
+2022-01-16 15:41:48,363 : INFO: Tests.BaseClass:getting Country
+2022-01-16 15:41:53,771 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-16 15:42:35,627 : INFO: Tests.BaseClass:gettingUsername
+2022-01-16 15:42:38,763 : INFO: Tests.BaseClass:getting Emailid
+2022-01-16 15:42:42,004 : INFO: Tests.BaseClass:gettingPassword
+2022-01-16 15:42:54,674 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-16 15:43:19,869 : INFO: Tests.BaseClass:iphone X
+2022-01-16 15:43:19,893 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-16 15:43:19,920 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-16 15:43:19,939 : INFO: Tests.BaseClass:Blackberry
+2022-01-16 15:43:20,457 : INFO: Tests.BaseClass:getting Country
+2022-01-16 15:43:26,444 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-16 15:44:12,901 : INFO: Tests.BaseClass:gettingUsername
+2022-01-16 15:44:16,103 : INFO: Tests.BaseClass:getting Emailid
+2022-01-16 15:44:19,402 : INFO: Tests.BaseClass:gettingPassword
+2022-01-16 15:44:32,022 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-16 15:44:36,032 : INFO: Tests.BaseClass:iphone X
+2022-01-16 15:44:36,049 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-16 15:44:36,064 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-16 15:44:36,078 : INFO: Tests.BaseClass:Blackberry
+2022-01-16 15:44:36,470 : INFO: Tests.BaseClass:getting Country
+2022-01-16 15:44:42,479 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-16 15:45:20,094 : INFO: Tests.BaseClass:gettingUsername
+2022-01-16 15:45:23,287 : INFO: Tests.BaseClass:getting Emailid
+2022-01-16 15:45:26,523 : INFO: Tests.BaseClass:gettingPassword
+2022-01-16 15:45:39,844 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-16 15:46:01,628 : INFO: Tests.BaseClass:iphone X
+2022-01-16 15:46:01,644 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-16 15:46:01,666 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-16 15:46:01,680 : INFO: Tests.BaseClass:Blackberry
+2022-01-16 15:46:02,056 : INFO: Tests.BaseClass:getting Country
+2022-01-16 15:46:07,913 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-16 15:49:02,670 : INFO: Tests.BaseClass:gettingUsername
+2022-01-16 15:49:05,830 : INFO: Tests.BaseClass:getting Emailid
+2022-01-16 15:49:09,040 : INFO: Tests.BaseClass:gettingPassword
+2022-01-16 15:49:21,870 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-16 15:49:24,016 : INFO: Tests.BaseClass:iphone X
+2022-01-16 15:49:24,044 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-16 15:49:24,071 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-16 15:49:24,090 : INFO: Tests.BaseClass:Blackberry
+2022-01-16 15:49:24,351 : INFO: Tests.BaseClass:getting Country
+2022-01-16 15:49:30,228 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-16 15:50:55,376 : INFO: Tests.BaseClass:gettingUsername
+2022-01-16 15:50:58,533 : INFO: Tests.BaseClass:getting Emailid
+2022-01-16 15:51:01,705 : INFO: Tests.BaseClass:gettingPassword
+2022-01-16 15:51:16,559 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-16 15:51:41,938 : INFO: Tests.BaseClass:iphone X
+2022-01-16 15:51:41,950 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-16 15:51:41,960 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-16 15:51:41,971 : INFO: Tests.BaseClass:Blackberry
+2022-01-16 15:51:43,140 : INFO: Tests.BaseClass:getting Country
+2022-01-16 15:51:49,331 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-16 15:53:21,906 : INFO: Tests.BaseClass:gettingUsername
+2022-01-16 15:53:25,162 : INFO: Tests.BaseClass:getting Emailid
+2022-01-16 15:53:28,247 : INFO: Tests.BaseClass:gettingPassword
+2022-01-16 15:53:41,410 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-16 15:53:53,209 : INFO: Tests.BaseClass:iphone X
+2022-01-16 15:53:53,272 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-16 15:53:53,472 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-16 15:53:53,598 : INFO: Tests.BaseClass:Blackberry
+2022-01-16 15:53:55,610 : INFO: Tests.BaseClass:getting Country
+2022-01-16 15:54:02,124 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-16 16:04:23,688 : INFO: Tests.BaseClass:gettingUsername
+2022-01-16 16:04:26,885 : INFO: Tests.BaseClass:getting Emailid
+2022-01-16 16:04:30,050 : INFO: Tests.BaseClass:gettingPassword
+2022-01-16 16:04:42,724 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-16 16:04:44,259 : INFO: Tests.BaseClass:iphone X
+2022-01-16 16:04:44,276 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-16 16:04:44,291 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-16 16:04:44,307 : INFO: Tests.BaseClass:Blackberry
+2022-01-16 16:04:44,631 : INFO: Tests.BaseClass:getting Country
+2022-01-16 16:04:50,417 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-16 22:52:21,900 : INFO: Tests.BaseClass:gettingUsername
+2022-01-16 22:52:25,153 : INFO: Tests.BaseClass:getting Emailid
+2022-01-16 22:52:28,327 : INFO: Tests.BaseClass:gettingPassword
+2022-01-16 22:52:40,913 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-16 22:52:45,549 : INFO: Tests.BaseClass:iphone X
+2022-01-16 22:52:45,573 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-16 22:52:45,592 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-16 22:52:45,610 : INFO: Tests.BaseClass:Blackberry
+2022-01-16 22:52:45,942 : INFO: Tests.BaseClass:getting Country
+2022-01-16 22:52:51,643 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-16 22:55:16,109 : INFO: Tests.BaseClass:gettingUsername
+2022-01-16 22:55:19,278 : INFO: Tests.BaseClass:getting Emailid
+2022-01-16 22:55:22,451 : INFO: Tests.BaseClass:gettingPassword
+2022-01-16 22:55:34,912 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-16 22:55:41,551 : INFO: Tests.BaseClass:iphone X
+2022-01-16 22:55:41,567 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-16 22:55:41,585 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-16 22:55:41,600 : INFO: Tests.BaseClass:Blackberry
+2022-01-16 22:55:41,937 : INFO: Tests.BaseClass:getting Country
+2022-01-16 22:55:47,455 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-17 10:52:10,704 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 10:52:14,158 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 10:52:17,283 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 10:52:24,727 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 10:52:24,727 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 10:52:27,860 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 10:52:27,860 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 10:52:31,011 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 10:52:31,011 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 10:56:55,495 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 10:56:58,662 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 10:57:01,837 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 10:57:08,432 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 10:57:08,432 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 10:57:11,596 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 10:57:11,596 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 10:57:14,803 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 10:57:14,803 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 10:59:07,102 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 10:59:10,309 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 10:59:13,454 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 10:59:20,155 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 10:59:20,155 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 10:59:23,329 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 10:59:23,329 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 10:59:26,484 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 10:59:26,484 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 10:59:56,266 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 10:59:59,464 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 11:00:02,626 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 11:00:09,361 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 11:00:09,361 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 11:00:12,503 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 11:00:12,503 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 11:00:15,648 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 11:00:15,648 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 11:01:15,609 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 11:01:18,835 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 11:01:22,109 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 11:01:28,665 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 11:01:28,665 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 11:01:31,790 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 11:01:31,790 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 11:01:34,937 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 11:01:34,937 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 11:18:39,902 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 11:18:43,200 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 11:18:46,362 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 11:18:53,145 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 11:18:53,145 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 11:18:56,372 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 11:18:56,372 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 11:18:59,509 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 11:18:59,509 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 11:19:12,507 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 11:19:12,507 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 11:22:07,426 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 11:22:10,611 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 11:22:13,793 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 11:22:26,365 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 11:22:27,203 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 11:22:27,203 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 11:22:30,453 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 11:22:30,453 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 11:22:33,605 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 11:22:33,605 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 11:22:46,111 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 11:22:46,111 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 11:45:16,518 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 11:45:19,691 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 11:45:22,873 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 11:45:35,370 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 11:45:36,283 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 11:45:36,283 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 11:45:39,438 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 11:45:39,438 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 11:45:42,605 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 11:45:42,605 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 11:45:55,132 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 11:45:55,132 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 11:46:25,457 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 11:46:28,672 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 11:46:31,833 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 11:46:44,384 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 11:46:45,107 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 11:46:45,107 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 11:46:48,334 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 11:46:48,334 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 11:46:51,600 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 11:46:51,600 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 11:47:04,124 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 11:47:04,124 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 11:51:21,243 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 11:51:24,448 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 11:51:27,707 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 11:51:40,219 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 11:51:41,003 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 11:51:41,003 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 11:51:44,361 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 11:51:44,361 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 11:51:47,526 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 11:51:47,526 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 11:52:00,026 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 11:52:00,026 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 12:05:56,847 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 12:06:00,130 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 12:06:03,424 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 12:06:15,971 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 12:06:16,764 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 12:06:16,764 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 12:06:19,945 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 12:06:19,945 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 12:06:23,095 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 12:06:23,095 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 12:06:35,550 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 12:06:35,550 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 12:09:05,987 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 12:09:09,206 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 12:09:12,386 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 12:09:24,824 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 12:09:25,627 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 12:09:25,627 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 12:09:28,765 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 12:09:28,765 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 12:09:31,894 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 12:09:31,894 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 12:09:44,358 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 12:09:44,358 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 12:12:28,078 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 12:12:31,256 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 12:12:34,505 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 12:12:47,103 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 12:12:47,702 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 12:12:47,702 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 12:12:50,860 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 12:12:50,860 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 12:12:54,017 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 12:12:54,017 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 12:13:06,576 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 12:13:06,576 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 12:46:45,283 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 12:46:48,473 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 12:46:51,639 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 12:47:04,060 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 12:47:05,825 : INFO: Tests.BaseClass:iphone X
+2022-01-17 12:47:05,845 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-17 12:47:05,870 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-17 12:47:05,896 : INFO: Tests.BaseClass:Blackberry
+2022-01-17 12:47:06,604 : INFO: Tests.BaseClass:getting Country
+2022-01-17 12:47:12,462 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-17 12:49:23,966 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 12:49:27,181 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 12:49:30,346 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 12:49:42,967 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 12:49:44,456 : INFO: Tests.BaseClass:iphone X
+2022-01-17 12:49:44,482 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-17 12:49:44,504 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-17 12:49:44,537 : INFO: Tests.BaseClass:Blackberry
+2022-01-17 12:49:44,832 : INFO: Tests.BaseClass:getting Country
+2022-01-17 12:49:50,811 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-17 12:53:21,374 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 12:53:24,683 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 12:53:27,897 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 12:53:40,490 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 12:53:42,087 : INFO: Tests.BaseClass:iphone X
+2022-01-17 12:53:42,102 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-17 12:53:42,124 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-17 12:53:42,147 : INFO: Tests.BaseClass:Blackberry
+2022-01-17 12:53:42,446 : INFO: Tests.BaseClass:getting Country
+2022-01-17 12:53:48,362 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-17 12:56:40,578 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 12:56:43,774 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 12:56:47,006 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 12:56:59,851 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 12:57:01,563 : INFO: Tests.BaseClass:iphone X
+2022-01-17 12:57:01,579 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-17 12:57:01,596 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-17 12:57:01,617 : INFO: Tests.BaseClass:Blackberry
+2022-01-17 12:57:01,886 : INFO: Tests.BaseClass:getting Country
+2022-01-17 12:57:07,724 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-17 12:59:17,384 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 12:59:20,616 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 12:59:23,795 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 12:59:36,349 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 12:59:48,163 : INFO: Tests.BaseClass:iphone X
+2022-01-17 12:59:48,182 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-17 12:59:48,201 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-17 12:59:48,219 : INFO: Tests.BaseClass:Blackberry
+2022-01-17 12:59:48,479 : INFO: Tests.BaseClass:getting Country
+2022-01-17 12:59:54,423 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-17 13:02:49,104 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 13:02:52,311 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 13:02:55,541 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 13:03:08,053 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 13:03:12,866 : INFO: Tests.BaseClass:iphone X
+2022-01-17 13:03:12,886 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-17 13:03:12,904 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-17 13:03:12,921 : INFO: Tests.BaseClass:Blackberry
+2022-01-17 13:03:13,192 : INFO: Tests.BaseClass:getting Country
+2022-01-17 13:03:19,198 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-17 14:53:42,902 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 14:53:46,205 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 14:53:49,397 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 14:54:01,886 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 15:16:02,940 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 15:16:06,363 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 15:16:09,535 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 15:16:21,936 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 15:16:23,421 : INFO: Tests.BaseClass:iphone X
+2022-01-17 15:16:23,444 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-17 15:16:23,464 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-17 15:16:23,487 : INFO: Tests.BaseClass:Blackberry
+2022-01-17 15:16:23,822 : INFO: Tests.BaseClass:getting Country
+2022-01-17 15:16:29,666 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-17 15:23:15,132 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 15:23:18,372 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 15:23:21,667 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 15:23:34,298 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 15:23:37,253 : INFO: Tests.BaseClass:iphone X
+2022-01-17 15:23:37,270 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-17 15:23:37,288 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-17 15:23:37,316 : INFO: Tests.BaseClass:Blackberry
+2022-01-17 15:23:37,804 : INFO: Tests.BaseClass:getting Country
+2022-01-17 15:23:43,384 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-17 15:23:45,213 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 15:23:48,457 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 15:23:51,570 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 15:24:03,946 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 15:24:05,622 : INFO: Tests.BaseClass:iphone X
+2022-01-17 15:24:05,641 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-17 15:24:05,660 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-17 15:24:05,678 : INFO: Tests.BaseClass:Blackberry
+2022-01-17 15:24:05,925 : INFO: Tests.BaseClass:getting Country
+2022-01-17 15:24:11,569 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-17 15:26:11,370 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 15:26:14,616 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 15:26:17,726 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 15:26:30,124 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 15:26:32,042 : INFO: Tests.BaseClass:iphone X
+2022-01-17 15:26:32,066 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-17 15:26:32,085 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-17 15:26:32,133 : INFO: Tests.BaseClass:Blackberry
+2022-01-17 15:26:32,448 : INFO: Tests.BaseClass:getting Country
+2022-01-17 15:26:38,237 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-17 15:33:31,256 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 15:33:34,455 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 15:33:37,605 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 15:33:50,034 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 15:33:51,888 : INFO: Tests.BaseClass:iphone X
+2022-01-17 15:33:51,902 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-17 15:33:51,914 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-17 15:33:51,927 : INFO: Tests.BaseClass:Blackberry
+2022-01-17 15:33:52,159 : INFO: Tests.BaseClass:getting Country
+2022-01-17 15:33:57,837 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-17 15:44:05,318 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 15:44:08,439 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 15:44:11,574 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 15:44:23,996 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 15:44:25,563 : INFO: Tests.BaseClass:iphone X
+2022-01-17 15:44:25,581 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-17 15:44:25,599 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-17 15:44:25,611 : INFO: Tests.BaseClass:Blackberry
+2022-01-17 15:44:26,872 : INFO: Tests.BaseClass:getting Country
+2022-01-17 15:44:32,826 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-17 16:22:09,373 : INFO: Tests.BaseClass:gettingUsername
+2022-01-17 16:22:12,584 : INFO: Tests.BaseClass:getting Emailid
+2022-01-17 16:22:15,697 : INFO: Tests.BaseClass:gettingPassword
+2022-01-17 16:22:28,170 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-17 16:22:29,605 : INFO: Tests.BaseClass:iphone X
+2022-01-17 16:22:29,624 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-17 16:22:29,640 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-17 16:22:29,653 : INFO: Tests.BaseClass:Blackberry
+2022-01-17 16:22:29,917 : INFO: Tests.BaseClass:getting Country
+2022-01-17 16:22:35,653 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-18 09:43:47,584 : INFO: Tests.BaseClass:gettingUsername
+2022-01-18 09:43:50,866 : INFO: Tests.BaseClass:getting Emailid
+2022-01-18 09:43:54,091 : INFO: Tests.BaseClass:gettingPassword
+2022-01-18 09:44:06,520 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-18 09:44:11,759 : INFO: Tests.BaseClass:iphone X
+2022-01-18 09:44:11,774 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-18 09:44:11,788 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-18 09:44:11,802 : INFO: Tests.BaseClass:Blackberry
+2022-01-18 09:44:12,053 : INFO: Tests.BaseClass:getting Country
+2022-01-18 09:44:17,640 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-18 11:42:07,154 : INFO: Tests.BaseClass:gettingUsername
+2022-01-18 11:42:10,300 : INFO: Tests.BaseClass:getting Emailid
+2022-01-18 11:42:13,423 : INFO: Tests.BaseClass:gettingPassword
+2022-01-18 11:42:25,900 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-18 11:42:28,510 : INFO: Tests.BaseClass:iphone X
+2022-01-18 11:42:28,527 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-18 11:42:28,540 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-18 11:42:28,553 : INFO: Tests.BaseClass:Blackberry
+2022-01-18 11:42:28,810 : INFO: Tests.BaseClass:getting Country
+2022-01-18 11:42:34,253 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-18 12:04:46,628 : INFO: Tests.BaseClass:gettingUsername
+2022-01-18 12:04:49,872 : INFO: Tests.BaseClass:getting Emailid
+2022-01-18 12:04:53,063 : INFO: Tests.BaseClass:gettingPassword
+2022-01-18 12:05:05,684 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-18 12:05:07,435 : INFO: Tests.BaseClass:iphone X
+2022-01-18 12:05:07,454 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-18 12:05:07,479 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-18 12:05:07,503 : INFO: Tests.BaseClass:Blackberry
+2022-01-18 12:05:07,822 : INFO: Tests.BaseClass:getting Country
+2022-01-18 12:05:13,856 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-18 12:08:44,519 : INFO: Tests.BaseClass:gettingUsername
+2022-01-18 12:08:48,137 : INFO: Tests.BaseClass:getting Emailid
+2022-01-18 12:08:51,349 : INFO: Tests.BaseClass:gettingPassword
+2022-01-18 12:09:03,894 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-18 12:09:05,367 : INFO: Tests.BaseClass:iphone X
+2022-01-18 12:09:05,388 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-18 12:09:05,412 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-18 12:09:05,435 : INFO: Tests.BaseClass:Blackberry
+2022-01-18 12:09:05,787 : INFO: Tests.BaseClass:getting Country
+2022-01-18 12:09:11,860 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-18 12:47:42,058 : INFO: Tests.BaseClass:gettingUsername
+2022-01-18 12:47:45,255 : INFO: Tests.BaseClass:getting Emailid
+2022-01-18 12:47:48,444 : INFO: Tests.BaseClass:gettingPassword
+2022-01-18 12:48:00,938 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-18 12:48:02,614 : INFO: Tests.BaseClass:iphone X
+2022-01-18 12:48:02,649 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-18 12:48:02,669 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-18 12:48:02,692 : INFO: Tests.BaseClass:Blackberry
+2022-01-18 12:48:02,990 : INFO: Tests.BaseClass:getting Country
+2022-01-18 12:48:08,781 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-18 12:54:02,626 : INFO: Tests.BaseClass:gettingUsername
+2022-01-18 12:54:05,825 : INFO: Tests.BaseClass:getting Emailid
+2022-01-18 12:54:09,007 : INFO: Tests.BaseClass:gettingPassword
+2022-01-18 12:54:21,597 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-18 12:54:23,681 : INFO: Tests.BaseClass:iphone X
+2022-01-18 12:54:23,714 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-18 12:54:23,745 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-18 12:54:23,765 : INFO: Tests.BaseClass:Blackberry
+2022-01-18 12:54:24,199 : INFO: Tests.BaseClass:getting Country
+2022-01-18 12:54:30,528 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-18 12:55:14,747 : INFO: Tests.BaseClass:gettingUsername
+2022-01-18 12:55:17,953 : INFO: Tests.BaseClass:getting Emailid
+2022-01-18 12:55:21,116 : INFO: Tests.BaseClass:gettingPassword
+2022-01-18 12:55:33,811 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-18 12:55:35,760 : INFO: Tests.BaseClass:iphone X
+2022-01-18 12:55:35,781 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-18 12:55:35,807 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-18 12:55:35,832 : INFO: Tests.BaseClass:Blackberry
+2022-01-18 12:55:36,228 : INFO: Tests.BaseClass:getting Country
+2022-01-18 12:55:42,160 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-18 12:57:21,410 : INFO: Tests.BaseClass:gettingUsername
+2022-01-18 12:57:24,692 : INFO: Tests.BaseClass:getting Emailid
+2022-01-18 12:57:27,878 : INFO: Tests.BaseClass:gettingPassword
+2022-01-18 12:57:40,403 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-18 12:57:42,041 : INFO: Tests.BaseClass:iphone X
+2022-01-18 12:57:42,055 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-18 12:57:42,070 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-18 12:57:42,088 : INFO: Tests.BaseClass:Blackberry
+2022-01-18 12:57:42,386 : INFO: Tests.BaseClass:getting Country
+2022-01-18 12:57:48,161 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-18 22:29:46,151 : INFO: Tests.BaseClass:gettingUsername
+2022-01-18 22:29:49,285 : INFO: Tests.BaseClass:getting Emailid
+2022-01-18 22:29:52,413 : INFO: Tests.BaseClass:gettingPassword
+2022-01-18 22:30:04,820 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-18 22:30:06,813 : INFO: Tests.BaseClass:iphone X
+2022-01-18 22:30:06,824 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-18 22:30:06,833 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-18 22:30:06,848 : INFO: Tests.BaseClass:Blackberry
+2022-01-18 22:30:07,066 : INFO: Tests.BaseClass:getting Country
+2022-01-18 22:30:12,780 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-18 22:30:50,706 : INFO: Tests.BaseClass:gettingUsername
+2022-01-18 22:30:53,865 : INFO: Tests.BaseClass:getting Emailid
+2022-01-18 22:30:56,981 : INFO: Tests.BaseClass:gettingPassword
+2022-01-18 22:31:09,421 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-18 22:31:11,055 : INFO: Tests.BaseClass:iphone X
+2022-01-18 22:31:11,064 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-18 22:31:11,091 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-18 22:31:11,113 : INFO: Tests.BaseClass:Blackberry
+2022-01-18 22:31:11,474 : INFO: Tests.BaseClass:getting Country
+2022-01-18 22:31:17,445 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-18 23:15:17,104 : INFO: Tests.BaseClass:gettingUsername
+2022-01-18 23:15:20,456 : INFO: Tests.BaseClass:getting Emailid
+2022-01-18 23:15:23,601 : INFO: Tests.BaseClass:gettingPassword
+2022-01-18 23:15:36,131 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-18 23:15:47,988 : INFO: Tests.BaseClass:iphone X
+2022-01-18 23:15:48,004 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-18 23:15:48,020 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-18 23:15:48,032 : INFO: Tests.BaseClass:Blackberry
+2022-01-18 23:15:48,302 : INFO: Tests.BaseClass:getting Country
+2022-01-18 23:15:53,708 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-18 23:20:22,497 : INFO: Tests.BaseClass:gettingUsername
+2022-01-18 23:20:25,724 : INFO: Tests.BaseClass:getting Emailid
+2022-01-18 23:20:28,837 : INFO: Tests.BaseClass:gettingPassword
+2022-01-18 23:20:41,664 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-18 23:20:54,560 : INFO: Tests.BaseClass:iphone X
+2022-01-18 23:20:54,578 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-18 23:20:54,596 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-18 23:20:54,614 : INFO: Tests.BaseClass:Blackberry
+2022-01-18 23:20:54,894 : INFO: Tests.BaseClass:getting Country
+2022-01-18 23:21:00,754 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-18 23:27:22,885 : INFO: Tests.BaseClass:gettingUsername
+2022-01-18 23:27:26,167 : INFO: Tests.BaseClass:getting Emailid
+2022-01-18 23:27:29,371 : INFO: Tests.BaseClass:gettingPassword
+2022-01-18 23:27:42,077 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-18 23:27:44,833 : INFO: Tests.BaseClass:iphone X
+2022-01-18 23:27:44,851 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-18 23:27:44,868 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-18 23:27:44,882 : INFO: Tests.BaseClass:Blackberry
+2022-01-18 23:27:45,113 : INFO: Tests.BaseClass:getting Country
+2022-01-18 23:27:50,648 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-19 09:30:17,769 : INFO: Tests.BaseClass:gettingUsername
+2022-01-19 09:30:20,981 : INFO: Tests.BaseClass:getting Emailid
+2022-01-19 09:30:24,198 : INFO: Tests.BaseClass:gettingPassword
+2022-01-19 09:30:36,698 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-19 09:30:38,272 : INFO: Tests.BaseClass:iphone X
+2022-01-19 09:30:38,293 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-19 09:30:38,314 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-19 09:30:38,336 : INFO: Tests.BaseClass:Blackberry
+2022-01-19 09:30:38,628 : INFO: Tests.BaseClass:getting Country
+2022-01-19 09:30:44,492 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-01-19 22:42:39,908 : INFO: Tests.BaseClass:gettingUsername
+2022-01-19 22:42:43,218 : INFO: Tests.BaseClass:getting Emailid
+2022-01-19 22:42:46,428 : INFO: Tests.BaseClass:gettingPassword
+2022-01-19 22:42:59,139 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-01-19 22:43:11,147 : INFO: Tests.BaseClass:iphone X
+2022-01-19 22:43:11,184 : INFO: Tests.BaseClass:Samsung Note 8
+2022-01-19 22:43:11,205 : INFO: Tests.BaseClass:Nokia Edge
+2022-01-19 22:43:11,227 : INFO: Tests.BaseClass:Blackberry
+2022-01-19 22:43:11,540 : INFO: Tests.BaseClass:getting Country
+2022-01-19 22:43:17,565 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-09 12:57:30,484 : INFO: Tests.BaseClass:gettingUsername
+2022-02-09 12:57:33,748 : INFO: Tests.BaseClass:getting Emailid
+2022-02-09 12:57:36,968 : INFO: Tests.BaseClass:gettingPassword
+2022-02-09 12:57:49,823 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-02-09 12:57:51,758 : INFO: Tests.BaseClass:iphone X
+2022-02-09 12:57:51,772 : INFO: Tests.BaseClass:Samsung Note 8
+2022-02-09 12:57:51,788 : INFO: Tests.BaseClass:Nokia Edge
+2022-02-09 12:57:51,804 : INFO: Tests.BaseClass:Blackberry
+2022-02-09 12:57:52,140 : INFO: Tests.BaseClass:getting Country
+2022-02-09 12:57:57,728 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-10 15:38:18,147 : INFO: Tests.BaseClass:gettingUsername
+2022-02-10 15:38:21,517 : INFO: Tests.BaseClass:getting Emailid
+2022-02-10 15:38:24,895 : INFO: Tests.BaseClass:gettingPassword
+2022-02-10 15:38:37,946 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-02-10 15:38:40,443 : INFO: Tests.BaseClass:iphone X
+2022-02-10 15:38:40,466 : INFO: Tests.BaseClass:Samsung Note 8
+2022-02-10 15:38:40,483 : INFO: Tests.BaseClass:Nokia Edge
+2022-02-10 15:38:40,514 : INFO: Tests.BaseClass:Blackberry
+2022-02-10 15:38:40,918 : INFO: Tests.BaseClass:getting Country
+2022-02-10 15:38:46,686 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-10 15:40:09,419 : INFO: Tests.BaseClass:gettingUsername
+2022-02-10 15:40:12,630 : INFO: Tests.BaseClass:getting Emailid
+2022-02-10 15:40:15,849 : INFO: Tests.BaseClass:gettingPassword
+2022-02-10 15:40:28,384 : INFO: Tests.BaseClass:text received from appllication×
+Success! The Form has been submitted successfully!.
+2022-02-10 15:40:30,142 : INFO: Tests.BaseClass:iphone X
+2022-02-10 15:40:30,162 : INFO: Tests.BaseClass:Samsung Note 8
+2022-02-10 15:40:30,181 : INFO: Tests.BaseClass:Nokia Edge
+2022-02-10 15:40:30,196 : INFO: Tests.BaseClass:Blackberry
+2022-02-10 15:40:30,465 : INFO: Tests.BaseClass:getting Country
+2022-02-10 15:40:36,409 : INFO: Tests.BaseClass:text received from appllication is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
